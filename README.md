@@ -1,8 +1,8 @@
-#MTA-SA_LUAC-Decompile_Server
+# MTA-SA_LUAC-Decompile_Server
 
-Special server for debugging, decompiling Luac scripts in MTA
+## Special server for debugging, decompiling Luac scripts in MTA
 
-LuckyLuacHack
+## LuckyLuacHack
 
 0x00: copy luac scripts to "MTA\server\mods\deathmatch\resources[admin]\llh_panel/go/"
 
