@@ -12,6 +12,6 @@
 
 0x03: enter: "debugscript"
 
-0x04: enter: "goodluck ALFA" for windowed mode or enter: "goodluck ALPHA" for windowed mode and very aggressive feature, it is unsafe and can be detected by mta anti-cheat, can be used only after mta bypass ban
+0x04: enter: "goodluck ALPHA" for windowed mode or enter: "goodluck ALFA" for windowed mode and very aggressive feature, it is unsafe and can be detected by mta anti-cheat, can be used only after mta bypass ban
 
 in the open menu you will understand everything what is what, everything is written as simply as possible
