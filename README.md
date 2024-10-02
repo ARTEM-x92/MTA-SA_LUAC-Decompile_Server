@@ -1,4 +1,4 @@
-MTA-SA_LUAC-Decompile_Server
+#MTA-SA_LUAC-Decompile_Server
 
 Special server for debugging, decompiling Luac scripts in MTA
 
